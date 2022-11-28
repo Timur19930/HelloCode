@@ -1,3 +1,3 @@
-﻿int numberA = 3;
-int numberB = 5;
+﻿double numberA = 3;
+double numberB = 5;
 Console.WriteLine(numberA + numberB);
